@@ -1,9 +1,9 @@
-hello git! hot_fix
-hello git! 123 
+hello git! 
+hello git! 
 hello git!
 hello git!
-hello git! master
+hello git! 
 hello git!
-hello git! hot-fix
+hello git! 
 hello git!
 hello git!
